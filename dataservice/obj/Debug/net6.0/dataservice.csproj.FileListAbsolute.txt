@@ -1,0 +1,17 @@
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\bin\Debug\net6.0\dataservice.deps.json
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\bin\Debug\net6.0\dataservice.runtimeconfig.json
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\bin\Debug\net6.0\dataservice.dll
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\bin\Debug\net6.0\dataservice.pdb
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\bin\Debug\net6.0\entities.dll
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\bin\Debug\net6.0\entities.pdb
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\obj\Debug\net6.0\dataservice.csproj.AssemblyReference.cache
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\obj\Debug\net6.0\dataservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\obj\Debug\net6.0\dataservice.AssemblyInfoInputs.cache
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\obj\Debug\net6.0\dataservice.AssemblyInfo.cs
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\obj\Debug\net6.0\dataservice.csproj.CoreCompileInputs.cache
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\obj\Debug\net6.0\dataservice.csproj.CopyComplete
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\obj\Debug\net6.0\dataservice.dll
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\obj\Debug\net6.0\refint\dataservice.dll
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\obj\Debug\net6.0\dataservice.pdb
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\obj\Debug\net6.0\dataservice.genruntimeconfig.cache
+C:\Users\Arib's\Desktop\Personal\backend\dataservice\obj\Debug\net6.0\ref\dataservice.dll
