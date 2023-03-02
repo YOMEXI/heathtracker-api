@@ -63,5 +63,48 @@ namespace api.Controllers
             return Ok(user);
         }
 
+        [HttpDelete]
+        [Route("getuser")]
+        public IActionResult DeleteUser(Guid id)
+        {
+            var user = _context.User.FirstOrDefault(x => x.Id == id);
+
+            if (user != null)
+            {
+                System.Console.WriteLine(user);
+                _context.User.Remove(user);
+                _context.SaveChanges();
+                return Ok();
+            }
+            return Ok(user);
+        }
+        [HttpPut]
+        [Route("getuser")]
+        public IActionResult updateUser(Guid id, UserDto user)
+        {
+            var _user = _context.User.FirstOrDefault(x => x.Id == id);
+
+
+            if (_user != null)
+            {
+                _user.Id = id;
+                _user.FirstName = user.FirstName;
+                _user.LastName = user.LastName;
+                _user.Email = user.Email;
+                _user.Phone = user.Phone;
+                _user.DateOfBirth = Convert.ToDateTime(user.DateOfBirth);
+                _user.Country = user.Country;
+                _user.Status = 1;
+
+
+                _context.User.Update(_user);
+                _context.SaveChanges();
+
+                return Ok(_user);
+            }
+            return Ok(_user);
+        }
+
+
     }
 }

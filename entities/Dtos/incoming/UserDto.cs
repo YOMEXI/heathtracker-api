@@ -15,5 +15,7 @@ namespace entities.Dtos.incoming
 
         public string? DateOfBirth { get; set; }
         public string? Country { get; set; }
+
+        public string? id { get; set; }
     }
 }
